@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1600425074 source:c:\users\castillo\desktop\primerparcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menues.h"
+
+1600425836 c:\users\castillo\desktop\primerparcial\usuario.h
+
+1600424034 c:\users\castillo\desktop\primerparcial\estructs.h
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"menues.h"
+	"Usuario.h"
+	"Estructs.h"
+
+1600425936 c:\users\castillo\desktop\primerparcial\menues.h
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"Usuario.h"
+
+1600425469 source:c:\users\castillo\desktop\primerparcial\usuario.cpp
+	<iostream>
+	"Usuario.h"
+
+1600425076 source:c:\users\casti\desktop\mati\primerparcial - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menues.h"
+
+1600425938 c:\users\casti\desktop\mati\primerparcial - copia\menues.h
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"Usuario.h"
+
+1600425838 c:\users\casti\desktop\mati\primerparcial - copia\usuario.h
+
+1600439360 source:c:\users\casti\desktop\mati\primerparcial - copia\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"Usuario.h"
+
+1600425076 source:c:\users\castillo\desktop\primerparcial - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menues.h"
+
+1600923859 c:\users\castillo\desktop\primerparcial - copia\menues.h
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"Usuario.h"
+
+1600923753 c:\users\castillo\desktop\primerparcial - copia\usuario.h
+	"fecha.h"
+
+1600923760 source:c:\users\castillo\desktop\primerparcial - copia\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"Usuario.h"
+
+1600626453 source:c:\users\castillo\desktop\primerparcial - copia\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<ctime>
+
+1600911251 c:\users\castillo\desktop\primerparcial - copia\fecha.h
+
+1600626454 source:d:\primerparcial - original\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<ctime>
+
+1600911252 d:\primerparcial - original\fecha.h
+
+1600961502 source:d:\primerparcial - original\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menues.h"
+
+1600963922 d:\primerparcial - original\menues.h
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"Usuario.h"
+	"entrenamientos.h"
+
+1600963252 d:\primerparcial - original\usuario.h
+	"fecha.h"
+
+1600964792 d:\primerparcial - original\entrenamientos.h
+	"Usuario.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+
+1600959756 source:d:\primerparcial - original\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"Usuario.h"
+
+1600626454 source:c:\users\castillo\desktop\primerparcial - original\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<ctime>
+
+1600911252 c:\users\castillo\desktop\primerparcial - original\fecha.h
+
+1600959756 source:c:\users\castillo\desktop\primerparcial - original\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"Usuario.h"
+
+1600970982 c:\users\castillo\desktop\primerparcial - original\usuario.h
+	"fecha.h"
+
+1600965470 source:c:\users\castillo\desktop\primerparcial - original\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menues.h"
+
+1600973674 c:\users\castillo\desktop\primerparcial - original\menues.h
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"Usuario.h"
+	"entrenamientos.h"
+
+1600974077 c:\users\castillo\desktop\primerparcial - original\entrenamientos.h
+	"Usuario.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+
